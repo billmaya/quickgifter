@@ -1,0 +1,1232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Empty-0</key>
+	<array>
+		<string></string>
+	</array>
+	<key>Belt-1</key>
+	<array>
+		<string>Women</string>
+		<string>Men</string>
+		<string>Girls</string>
+		<string>Boys</string>
+		<string>Toddlers</string>
+	</array>
+	<key>Belt-2-Women</key>
+	<array>
+		<string></string>
+		<string>XS</string>
+		<string>S</string>
+		<string>M</string>
+		<string>L</string>
+		<string>XL</string>
+		<string>XXL</string>
+		<string>3XL</string>
+		<string>4XL</string>
+	</array>
+	<key>Belt-3-Women</key>
+	<array>
+		<string></string>
+		<string>6-8</string>
+		<string>10-12</string>
+		<string>14-16</string>
+		<string>18-20</string>
+		<string>22-24</string>
+		<string>26-28</string>
+		<string>30-32</string>
+		<string>34-36</string>
+	</array>
+	<key>Belt-2-Men</key>
+	<array>
+		<string></string>
+		<string>XS</string>
+		<string>S</string>
+		<string>M</string>
+		<string>L</string>
+		<string>XL</string>
+		<string>XXL</string>
+		<string>3XL</string>
+		<string>4XL</string>
+	</array>
+	<key>Belt-3-Men</key>
+	<array>
+		<string></string>
+		<string>26-28&quot;</string>
+		<string>30-32&quot;</string>
+		<string>34-36&quot;</string>
+		<string>38-40&quot;</string>
+		<string>42-44&quot;</string>
+		<string>46-48&quot;</string>
+		<string>50-52&quot;</string>
+		<string>54-56&quot;</string>
+	</array>
+	<key>Belt-2-Other</key>
+	<array>
+		<string>S</string>
+		<string>M</string>
+		<string>L</string>
+	</array>
+	<key>Belt-3-Small</key>
+	<array>
+		<string></string>
+		<string>2T Reg.</string>
+		<string>3T Reg.</string>
+		<string>4T Reg.</string>
+		<string>5 Reg.</string>
+	</array>
+	<key>Belt-3-Medium</key>
+	<array>
+		<string></string>
+		<string>6 Reg.</string>
+		<string>7 Reg.</string>
+		<string>8 Reg.</string>
+		<string>9 Reg.</string>
+	</array>
+	<key>Belt-3-Large</key>
+	<array>
+		<string></string>
+		<string>10 Reg.</string>
+		<string>12 Reg.</string>
+	</array>
+	<key>Brassiere-1</key>
+	<array>
+		<string></string>
+		<string>XS</string>
+		<string>S</string>
+		<string>M</string>
+		<string>L</string>
+		<string>XL</string>
+		<string>XXL</string>
+		<string>3XL</string>
+		<string>4XL</string>
+		<string>5XL</string>
+		<string>6XL</string>
+	</array>
+	<key>Brassiere-2</key>
+	<array>
+		<string></string>
+		<string>28&quot;</string>
+		<string>30&quot;</string>
+		<string>32&quot;</string>
+		<string>34&quot;</string>
+		<string>36&quot;</string>
+		<string>38&quot;</string>
+		<string>40&quot;</string>
+		<string>42&quot;</string>
+		<string>44&quot;</string>
+		<string>46&quot;</string>
+	</array>
+	<key>Brassiere-3</key>
+	<array>
+		<string></string>
+		<string>AA</string>
+		<string>A</string>
+		<string>B</string>
+		<string>C</string>
+		<string>D</string>
+		<string>DD</string>
+		<string>E</string>
+		<string>F</string>
+		<string>G</string>
+		<string>GG</string>
+		<string>H</string>
+		<string>HH</string>
+		<string>J</string>
+		<string>JJ</string>
+		<string>K</string>
+	</array>
+	<key>Dress-1</key>
+	<array>
+		<string>Women</string>
+		<string>Girls</string>
+		<string>Jr. Girls</string>
+	</array>
+	<key>Dress-2-Women</key>
+	<array>
+		<string></string>
+		<string>Petite</string>
+		<string>Regular</string>
+		<string>Tall</string>
+		<string>Plus</string>
+	</array>
+	<key>Dress-3-Women</key>
+	<array>
+		<string></string>
+		<string>XS</string>
+		<string>S</string>
+		<string>M</string>
+		<string>L</string>
+		<string>XL</string>
+		<string>XXL</string>
+	</array>
+	<key>Dress-4-Women</key>
+	<array>
+		<string></string>
+		<string>0</string>
+		<string>1</string>
+		<string>2</string>
+		<string>4</string>
+		<string>6</string>
+		<string>8</string>
+		<string>10</string>
+		<string>12</string>
+		<string>14</string>
+		<string>16</string>
+		<string>18</string>
+		<string>20</string>
+	</array>
+	<key>Dress-2-Girls</key>
+	<array>
+		<string></string>
+		<string>Slim</string>
+		<string>Regular</string>
+		<string>Plus</string>
+	</array>
+	<key>Dress-3-Girls</key>
+	<array>
+		<string></string>
+		<string>XS</string>
+		<string>S</string>
+		<string>M</string>
+		<string>L</string>
+		<string>XL</string>
+		<string>XXL</string>
+	</array>
+	<key>Dress-4-Girls</key>
+	<array>
+		<string></string>
+		<string>4</string>
+		<string>5</string>
+		<string>6</string>
+		<string>6X</string>
+		<string>7</string>
+		<string>8</string>
+		<string>10</string>
+		<string>12</string>
+		<string>14</string>
+		<string>16</string>
+		<string>18</string>
+	</array>
+	<key>Dress-2-JrGirls</key>
+	<array>
+		<string></string>
+		<string>Slim</string>
+		<string>Regular</string>
+		<string>Plus</string>
+	</array>
+	<key>Dress-3-JrGirls</key>
+	<array>
+		<string></string>
+		<string>S</string>
+		<string>M</string>
+		<string>L</string>
+		<string>XL</string>
+		<string>XXL</string>
+	</array>
+	<key>Dress-4-JrGirls</key>
+	<array>
+		<string></string>
+		<string>3</string>
+		<string>5</string>
+		<string>7</string>
+		<string>9</string>
+		<string>13</string>
+		<string>15</string>
+	</array>
+	<key>Dress Shirt-1</key>
+	<array>
+		<string></string>
+		<string>S</string>
+		<string>M</string>
+		<string>L</string>
+		<string>XL</string>
+		<string>XXL</string>
+	</array>
+	<key>Dress Shirt-2</key>
+	<array>
+		<string></string>
+		<string>Neck: 14&quot;</string>
+		<string>Neck: 14.5&quot;</string>
+		<string>Neck: 15&quot;</string>
+		<string>Neck: 15.5&quot;</string>
+		<string>Neck: 16&quot;</string>
+		<string>Neck: 16.5&quot;</string>
+		<string>Neck: 17&quot;</string>
+		<string>Neck: 17.5&quot;</string>
+		<string>Neck: 18&quot;</string>
+		<string>Neck: 18.5&quot;</string>
+		<string>Neck: 19&quot;</string>
+		<string>Neck: 20&quot;</string>
+		<string>Neck: 22&quot;</string>
+	</array>
+	<key>Dress Shirt-3</key>
+	<array>
+		<string></string>
+		<string>Arm: 30&quot;</string>
+		<string>Arm: 31&quot;</string>
+		<string>Arm: 32&quot;</string>
+		<string>Arm: 33&quot;</string>
+		<string>Arm: 34&quot;</string>
+		<string>Arm: 35&quot;</string>
+		<string>Arm: 36&quot;</string>
+		<string>Arm: 37&quot;</string>
+		<string>Arm: 38&quot;</string>
+		<string>Arm: 39&quot;</string>
+		<string>Arm: 40&quot;</string>
+	</array>
+	<key>Hat-1</key>
+	<array>
+		<string>Adults</string>
+		<string>Kids</string>
+	</array>
+	<key>Hat-2-Adults</key>
+	<array>
+		<string></string>
+		<string>XS</string>
+		<string>S</string>
+		<string>S/M</string>
+		<string>M</string>
+		<string>M/L</string>
+		<string>L</string>
+		<string>L/XL</string>
+		<string>XL</string>
+		<string>XXL</string>
+		<string>3XL</string>
+		<string>4XL</string>
+	</array>
+	<key>Hat-3-Adults</key>
+	<array>
+		<string></string>
+		<string>6 5/8</string>
+		<string>6 3/4</string>
+		<string>6 7/8</string>
+		<string>7</string>
+		<string>7 1/8</string>
+		<string>7 1/4</string>
+		<string>7 3/8</string>
+		<string>7 1/2</string>
+		<string>7 5/8</string>
+		<string>7 3/4</string>
+		<string>7 7/8</string>
+		<string>8</string>
+	</array>
+	<key>Hat-2-Kids</key>
+	<array>
+		<string></string>
+		<string>XS</string>
+		<string>S</string>
+		<string>S/M</string>
+		<string>M</string>
+		<string>L</string>
+		<string>L/X</string>
+		<string>XL</string>
+	</array>
+	<key>Hat-3-Kids</key>
+	<array>
+		<string></string>
+		<string>6</string>
+		<string>6 1/8</string>
+		<string>6 1/4</string>
+		<string>6 3/8</string>
+		<string>6 1/2</string>
+		<string>6 5/8</string>
+		<string>6 3/4</string>
+		<string>7</string>
+	</array>
+	<key>Jacket-1</key>
+	<array>
+		<string></string>
+		<string>Long</string>
+		<string>Regular</string>
+		<string>Sport</string>
+	</array>
+	<key>Jacket-2</key>
+	<array>
+		<string></string>
+		<string>XXS</string>
+		<string>XS</string>
+		<string>S</string>
+		<string>M</string>
+		<string>L</string>
+		<string>XL</string>
+		<string>2XL</string>
+		<string>3XL</string>
+		<string>4XL</string>
+		<string>5XL</string>
+	</array>
+	<key>Jacket-3</key>
+	<array>
+		<string></string>
+		<string>P 00</string>
+		<string>P 0</string>
+		<string>P 1</string>
+		<string>P 2</string>
+		<string>P 3</string>
+		<string>P 4</string>
+		<string>P 5</string>
+		<string>P 6</string>
+		<string>P 7</string>
+		<string>P 8</string>
+		<string>P 9</string>
+		<string>P 10</string>
+		<string>P 11</string>
+		<string>P 12</string>
+		<string>P 13</string>
+		<string>P 14</string>
+		<string>P 15</string>
+		<string>P 16</string>
+		<string>P 17</string>
+		<string>P 18</string>
+		<string>P 19</string>
+		<string>P 20</string>
+		<string>P 22</string>
+	</array>
+	<key>Jacket-4</key>
+	<array>
+		<string></string>
+		<string>C 26&quot;</string>
+		<string>C 27&quot;</string>
+		<string>C 28&quot;</string>
+		<string>C 29&quot;</string>
+		<string>C 30&quot;</string>
+		<string>C 31&quot;</string>
+		<string>C 32&quot;</string>
+		<string>C 33&quot;</string>
+		<string>C 34&quot;</string>
+		<string>C 35&quot;</string>
+		<string>C 36&quot;</string>
+		<string>C 37&quot;</string>
+		<string>C 38&quot;</string>
+		<string>C 39&quot;</string>
+		<string>C 40&quot;</string>
+		<string>C 41&quot;</string>
+		<string>C 42&quot;</string>
+		<string>C 43&quot;</string>
+		<string>C 44&quot;</string>
+		<string>C 45&quot;</string>
+		<string>C 46&quot;</string>
+		<string>C 47&quot;</string>
+		<string>C 48&quot;</string>
+		<string>C 49&quot;</string>
+		<string>C 50&quot;</string>
+		<string>C 51&quot;</string>
+		<string>C 52&quot;</string>
+	</array>
+	<key>Pants-1</key>
+	<array>
+		<string></string>
+		<string>XS</string>
+		<string>S</string>
+		<string>M</string>
+		<string>L</string>
+		<string>XL</string>
+		<string>XXL</string>
+		<string>2XL</string>
+		<string>3XL</string>
+		<string>4XL</string>
+	</array>
+	<key>Pants-2</key>
+	<array>
+		<string></string>
+		<string>W 27&quot;</string>
+		<string>W 28&quot;</string>
+		<string>W 29&quot;</string>
+		<string>W 30&quot;</string>
+		<string>W 31&quot;</string>
+		<string>W 32&quot;</string>
+		<string>W 33&quot;</string>
+		<string>W 34&quot;</string>
+		<string>W 35&quot;</string>
+		<string>W 36&quot;</string>
+		<string>W 37&quot;</string>
+		<string>W 38&quot;</string>
+		<string>W 39&quot;</string>
+		<string>W 40&quot;</string>
+		<string>W 41&quot;</string>
+		<string>W 42&quot;</string>
+		<string>W 43&quot;</string>
+		<string>W 44&quot;</string>
+		<string>W 45&quot;</string>
+		<string>W 46&quot;</string>
+		<string>W 47&quot;</string>
+		<string>W 48&quot;</string>
+		<string>W 49&quot;</string>
+		<string>W 50&quot;</string>
+		<string>W 51&quot;</string>
+		<string>W 52&quot;</string>
+		<string>W 53&quot;</string>
+		<string>W 54&quot;</string>
+	</array>
+	<key>Pants-3</key>
+	<array>
+		<string></string>
+		<string>L 28.5&quot;</string>
+		<string>L 29&quot;</string>
+		<string>L 29.5&quot;</string>
+		<string>L 30&quot;</string>
+		<string>L 30.5&quot;</string>
+		<string>L 31&quot;</string>
+		<string>L 31.5&quot;</string>
+		<string>L 32&quot;</string>
+		<string>L 32.5&quot;</string>
+		<string>L 33&quot;</string>
+		<string>L 33.5&quot;</string>
+		<string>L 34&quot;</string>
+		<string>L 34.5&quot;</string>
+		<string>L 35&quot;</string>
+	</array>
+	<key>Pants-4</key>
+	<array>
+		<string></string>
+		<string>P 0</string>
+		<string>P 1</string>
+		<string>P 2</string>
+		<string>P 3</string>
+		<string>P 4</string>
+		<string>P 5</string>
+		<string>P 6</string>
+		<string>P 7</string>
+		<string>P 8</string>
+		<string>P 9</string>
+		<string>P 10</string>
+		<string>P 11</string>
+		<string>P 12</string>
+		<string>P 13</string>
+		<string>P 14</string>
+		<string>P 15</string>
+		<string>P 16</string>
+		<string>P 17</string>
+		<string>P 18</string>
+		<string>P 19</string>
+		<string>P 20</string>
+		<string>P 22</string>
+	</array>
+	<key>Shirt-1</key>
+	<array>
+		<string></string>
+		<string>Blouse</string>
+		<string>Casual</string>
+		<string>Henley</string>
+		<string>Long Sleeve</string>
+		<string>Polo</string>
+		<string>Tank Top</string>
+		<string>Tunic Top</string>
+	</array>
+	<key>Shirt-2</key>
+	<array>
+		<string></string>
+		<string>XXS</string>
+		<string>XS</string>
+		<string>S</string>
+		<string>M</string>
+		<string>L</string>
+		<string>XL</string>
+		<string>2XL</string>
+		<string>3XL</string>
+		<string>4XL</string>
+		<string>5XL</string>
+	</array>
+	<key>Shirt-3</key>
+	<array>
+		<string></string>
+		<string>00</string>
+		<string>0</string>
+		<string>1</string>
+		<string>2</string>
+		<string>4</string>
+		<string>6</string>
+		<string>8</string>
+		<string>10</string>
+		<string>12</string>
+		<string>14</string>
+		<string>16</string>
+		<string>18</string>
+		<string>20</string>
+		<string>22</string>
+		<string>24</string>
+		<string>26</string>
+		<string>28</string>
+	</array>
+	<key>Shoes-1</key>
+	<array>
+		<string>Women</string>
+		<string>Mens</string>
+		<string>Girls</string>
+		<string>Boys</string>
+		<string>Kids</string>
+		<string>Toddlers</string>
+		<string>Infants</string>
+	</array>
+	<key>Shoes-2</key>
+	<array>
+		<string></string>
+		<string>S</string>
+		<string>M</string>
+		<string>L</string>
+		<string>XL</string>
+	</array>
+	<key>Shoes-3-Women</key>
+	<array>
+		<string>4</string>
+		<string>4.5</string>
+		<string>5</string>
+		<string>5.5</string>
+		<string>6</string>
+		<string>6.5</string>
+		<string>7</string>
+		<string>7.5</string>
+		<string>8</string>
+		<string>8.5</string>
+		<string>9</string>
+		<string>9.5</string>
+		<string>10</string>
+		<string>10.5</string>
+		<string>11</string>
+		<string>11.5</string>
+		<string>12</string>
+		<string>12.5</string>
+	</array>
+	<key>Shoes-3-Men</key>
+	<array>
+		<string>5</string>
+		<string>5.5</string>
+		<string>6</string>
+		<string>6.5</string>
+		<string>7</string>
+		<string>7.5</string>
+		<string>8</string>
+		<string>8.5</string>
+		<string>9</string>
+		<string>9.5</string>
+		<string>10</string>
+		<string>10.5</string>
+		<string>11</string>
+		<string>11.5</string>
+		<string>12</string>
+		<string>12.5</string>
+		<string>13</string>
+		<string>13.5</string>
+		<string>14</string>
+		<string>14.5</string>
+		<string>15</string>
+		<string>15.5</string>
+	</array>
+	<key>Shoes-3-Girls</key>
+	<array>
+		<string>9.5</string>
+		<string>10</string>
+		<string>11</string>
+		<string>12</string>
+		<string>13</string>
+		<string>14</string>
+		<string>1</string>
+		<string>1.5</string>
+		<string>2</string>
+		<string>2.5</string>
+		<string>3</string>
+		<string>3.5</string>
+		<string>4</string>
+	</array>
+	<key>Shoes-3-Boys</key>
+	<array>
+		<string>12</string>
+		<string>13</string>
+		<string>14</string>
+		<string>1</string>
+		<string>1.5</string>
+		<string>2</string>
+		<string>2.5</string>
+		<string>3</string>
+		<string>3.5</string>
+		<string>4</string>
+		<string>4.5</string>
+		<string>5</string>
+	</array>
+	<key>Shoes-3-Kids</key>
+	<array>
+		<string>10</string>
+		<string>10.5</string>
+		<string>11</string>
+		<string>11.5</string>
+		<string>12</string>
+		<string>12.5</string>
+		<string>13</string>
+		<string>13.5</string>
+		<string>1</string>
+		<string>1.5</string>
+		<string>2</string>
+		<string>2.5</string>
+		<string>3</string>
+		<string>3.5</string>
+		<string>4</string>
+		<string>4.5</string>
+		<string>5</string>
+		<string>5.5</string>
+		<string>6</string>
+		<string>6.5</string>
+		<string>7</string>
+	</array>
+	<key>Shoes-3-Toddlers</key>
+	<array>
+		<string>2</string>
+		<string>2.5</string>
+		<string>3</string>
+		<string>3.5</string>
+		<string>4</string>
+		<string>4.5</string>
+		<string>5</string>
+		<string>5.5</string>
+		<string>6</string>
+		<string>6.5</string>
+		<string>7</string>
+		<string>7.5</string>
+		<string>8</string>
+		<string>8.5</string>
+		<string>9</string>
+		<string>9.5</string>
+		<string>10</string>
+		<string>10.5</string>
+		<string>11</string>
+		<string>11.5</string>
+		<string>12</string>
+	</array>
+	<key>Shoes-3-Infants</key>
+	<array>
+		<string>0.5</string>
+		<string>1</string>
+		<string>1.5</string>
+		<string>2</string>
+		<string>2.5</string>
+		<string>3</string>
+		<string>3.5</string>
+		<string>4</string>
+	</array>
+	<key>Skirt-1</key>
+	<array>
+		<string></string>
+		<string>A-Line</string>
+		<string>Fit</string>
+		<string>Flared</string>
+		<string>Mini</string>
+		<string>Pencil</string>
+		<string>Pleated</string>
+		<string>Straight</string>
+		<string>Tube</string>
+	</array>
+	<key>Skirt-2</key>
+	<array>
+		<string></string>
+		<string>XS</string>
+		<string>S</string>
+		<string>M</string>
+		<string>L</string>
+		<string>XL</string>
+		<string>2XL</string>
+		<string>3XL</string>
+	</array>
+	<key>Skirt-3</key>
+	<array>
+		<string></string>
+		<string>W 20&quot;</string>
+		<string>W 21&quot;</string>
+		<string>W 22&quot;</string>
+		<string>W 23&quot;</string>
+		<string>W 24&quot;</string>
+		<string>W 25&quot;</string>
+		<string>W 26&quot;</string>
+		<string>W 27&quot;</string>
+		<string>W 28&quot;</string>
+		<string>W 29&quot;</string>
+		<string>W 30&quot;</string>
+		<string>W 31&quot;</string>
+		<string>W 32&quot;</string>
+		<string>W 33&quot;</string>
+		<string>W 34&quot;</string>
+		<string>W 35&quot;</string>
+		<string>W 36&quot;</string>
+		<string>W 37&quot;</string>
+		<string>W 38&quot;</string>
+		<string>W 39&quot;</string>
+		<string>W 40&quot;</string>
+		<string>W 41&quot;</string>
+		<string>W 42&quot;</string>
+		<string>W 43&quot;</string>
+		<string>W 44&quot;</string>
+		<string>W 45&quot;</string>
+		<string>W 46&quot;</string>
+	</array>
+	<key>Skirt-4</key>
+	<array>
+		<string></string>
+		<string>P 0</string>
+		<string>P 1</string>
+		<string>P 2</string>
+		<string>P 3</string>
+		<string>P 4</string>
+		<string>P 5</string>
+		<string>P 6</string>
+		<string>P 7</string>
+		<string>P 8</string>
+		<string>P 9</string>
+		<string>P 10</string>
+		<string>P 11</string>
+		<string>P 12</string>
+		<string>P 13</string>
+		<string>P 14</string>
+		<string>P 15</string>
+		<string>P 16</string>
+		<string>P 17</string>
+		<string>P 18</string>
+		<string>P 19</string>
+		<string>P 20</string>
+		<string>P 22</string>
+	</array>
+	<key>T-Shirt-1</key>
+	<array>
+		<string></string>
+		<string>1 Size</string>
+		<string>Adult</string>
+		<string>Women</string>
+		<string>Men</string>
+		<string>Youth</string>
+		<string>Jrs.</string>
+		<string>Girls</string>
+		<string>Boys</string>
+		<string>Kids</string>
+	</array>
+	<key>T-Shirt-2</key>
+	<array>
+		<string></string>
+		<string>XXS</string>
+		<string>XS</string>
+		<string>S</string>
+		<string>M</string>
+		<string>L</string>
+		<string>XL</string>
+		<string>2XL</string>
+		<string>3XL</string>
+		<string>4XL</string>
+		<string>5XL</string>
+		<string>0-2</string>
+		<string>2-4</string>
+		<string>4-6</string>
+		<string>6-8</string>
+		<string>8-10</string>
+		<string>10-12</string>
+		<string>12-14</string>
+		<string>14-16</string>
+	</array>
+	<key>T-Shirt-3</key>
+	<array>
+		<string></string>
+		<string>W 14&quot;</string>
+		<string>W 15&quot;</string>
+		<string>W 16&quot;</string>
+		<string>W 17&quot;</string>
+		<string>W 18&quot;</string>
+		<string>W 19&quot;</string>
+		<string>W 20&quot;</string>
+		<string>W 21&quot;</string>
+		<string>W 22&quot;</string>
+		<string>W 23&quot;</string>
+		<string>W 24&quot;</string>
+		<string>W 25&quot;</string>
+		<string>W 26&quot;</string>
+		<string>W 27&quot;</string>
+		<string>W 28&quot;</string>
+		<string>W 29&quot;</string>
+		<string>W 30&quot;</string>
+		<string>W 31&quot;</string>
+		<string>W 32&quot;</string>
+		<string>W 33&quot;</string>
+		<string>W 34&quot;</string>
+		<string>W 35&quot;</string>
+		<string>W 36&quot;</string>
+		<string>W 37&quot;</string>
+		<string>W 38&quot;</string>
+		<string>W 39&quot;</string>
+		<string>W 40&quot;</string>
+		<string>W 41&quot;</string>
+		<string>W 42&quot;</string>
+		<string>W 43&quot;</string>
+		<string>W 44&quot;</string>
+		<string>W 45&quot;</string>
+		<string>W 46&quot;</string>
+		<string>W 47&quot;</string>
+		<string>W 48&quot;</string>
+	</array>
+	<key>T-Shirt-4</key>
+	<array>
+		<string></string>
+		<string>.0&quot;</string>
+		<string>.5&quot;</string>
+	</array>
+	<key>T-Shirt-5</key>
+	<array>
+		<string></string>
+		<string>L 15&quot;</string>
+		<string>L 16&quot;</string>
+		<string>L 17&quot;</string>
+		<string>L 18&quot;</string>
+		<string>L 19&quot;</string>
+		<string>L 20&quot;</string>
+		<string>L 21&quot;</string>
+		<string>L 22&quot;</string>
+		<string>L 23&quot;</string>
+		<string>L 24&quot;</string>
+		<string>L 25&quot;</string>
+		<string>L 26&quot;</string>
+		<string>L 27&quot;</string>
+		<string>L 28&quot;</string>
+		<string>L 29&quot;</string>
+		<string>L 30&quot;</string>
+		<string>L 31&quot;</string>
+		<string>L 32&quot;</string>
+		<string>L 33&quot;</string>
+		<string>L 34&quot;</string>
+		<string>L 35&quot;</string>
+	</array>
+	<key>T-Shirt-6</key>
+	<array>
+		<string></string>
+		<string>.0&quot;</string>
+		<string>.5&quot;</string>
+	</array>
+	<key>Underwear-1</key>
+	<array>
+		<string></string>
+		<string>XS</string>
+		<string>S</string>
+		<string>M</string>
+		<string>L</string>
+		<string>XL</string>
+		<string>2XL</string>
+		<string>3XL</string>
+		<string>4XL</string>
+		<string>5XL</string>
+	</array>
+	<key>Underwear-2</key>
+	<array>
+		<string></string>
+		<string>W 25</string>
+		<string>W 26</string>
+		<string>W 27</string>
+		<string>W 28</string>
+		<string>W 29</string>
+		<string>W 30</string>
+		<string>W 31</string>
+		<string>W 32</string>
+		<string>W 33</string>
+		<string>W 34</string>
+		<string>W 35</string>
+		<string>W 36</string>
+		<string>W 37</string>
+		<string>W 38</string>
+		<string>W 39</string>
+		<string>W 40</string>
+		<string>W 41</string>
+		<string>W 42</string>
+		<string>W 43</string>
+		<string>W 44</string>
+		<string>W 45</string>
+		<string>W 46</string>
+		<string>W 47</string>
+		<string>W 48</string>
+		<string>W 49</string>
+		<string>W 50</string>
+		<string>W 51</string>
+		<string>W 52</string>
+		<string>W 53</string>
+		<string>W 54</string>
+		<string>W 55</string>
+		<string>W 56</string>
+		<string>W 57</string>
+		<string>W 58</string>
+		<string>W 59</string>
+		<string>W 60</string>
+		<string>W 61</string>
+		<string>W 62</string>
+		<string>W 63</string>
+	</array>
+	<key>Underwear-3</key>
+	<array>
+		<string></string>
+		<string>.0&quot;</string>
+		<string>.5&quot;</string>
+	</array>
+	<key>Underwear-4</key>
+	<array>
+		<string></string>
+		<string>P 0</string>
+		<string>P 1</string>
+		<string>P 2</string>
+		<string>P 3</string>
+		<string>P 4</string>
+		<string>P 5</string>
+		<string>P 6</string>
+		<string>P 7</string>
+		<string>P 8</string>
+		<string>P 9</string>
+		<string>P 10</string>
+		<string>P 11</string>
+		<string>P 12</string>
+		<string>P 13</string>
+		<string>P 14</string>
+		<string>P 15</string>
+		<string>P 16</string>
+		<string>P 17</string>
+		<string>P 18</string>
+	</array>
+	<key>Other-1</key>
+	<array>
+		<string>Women</string>
+		<string>Men</string>
+		<string>Girls</string>
+		<string>Boys</string>
+		<string>Jr. Girls</string>
+		<string>Jr. Boys</string>
+		<string>Toddlers</string>
+		<string>Infants</string>
+	</array>
+	<key>Other-2-Women</key>
+	<array>
+		<string></string>
+		<string>Petite</string>
+		<string>Regular</string>
+		<string>Tall</string>
+		<string>Plus</string>
+	</array>
+	<key>Other-3-Women</key>
+	<array>
+		<string></string>
+		<string>XS</string>
+		<string>S</string>
+		<string>M</string>
+		<string>L</string>
+		<string>XL</string>
+		<string>XXL</string>
+	</array>
+	<key>Other-4-Women</key>
+	<array>
+		<string></string>
+		<string>0</string>
+		<string>1</string>
+		<string>2</string>
+		<string>4</string>
+		<string>6</string>
+		<string>8</string>
+		<string>10</string>
+		<string>12</string>
+		<string>14</string>
+		<string>16</string>
+		<string>18</string>
+		<string>20</string>
+	</array>
+	<key>Other-2-Men</key>
+	<array>
+		<string></string>
+		<string>Long</string>
+		<string>Regular</string>
+		<string>Tall</string>
+	</array>
+	<key>Other-3-Men</key>
+	<array>
+		<string></string>
+		<string>XS</string>
+		<string>S</string>
+		<string>M</string>
+		<string>L</string>
+		<string>XL</string>
+		<string>XXL</string>
+	</array>
+	<key>Other-4-Men</key>
+	<array>
+		<string>26&quot;</string>
+		<string>27&quot;</string>
+		<string>28&quot;</string>
+		<string>29&quot;</string>
+		<string>30&quot;</string>
+		<string>31&quot;</string>
+		<string>32&quot;</string>
+		<string>33&quot;</string>
+		<string>34&quot;</string>
+		<string>35&quot;</string>
+		<string>36&quot;</string>
+		<string>37&quot;</string>
+		<string>38&quot;</string>
+		<string>39&quot;</string>
+		<string>40&quot;</string>
+		<string>41&quot;</string>
+		<string>42&quot;</string>
+		<string>43&quot;</string>
+		<string>44&quot;</string>
+		<string>45&quot;</string>
+		<string>46&quot;</string>
+		<string>47&quot;</string>
+		<string>48&quot;</string>
+		<string>49&quot;</string>
+		<string>50&quot;</string>
+		<string>51&quot;</string>
+		<string>52&quot;</string>
+		<string>53&quot;</string>
+		<string>54&quot;</string>
+		<string>55&quot;</string>
+		<string>56&quot;</string>
+	</array>
+	<key>Other-2-Girls</key>
+	<array>
+		<string></string>
+		<string>Slim</string>
+		<string>Regular</string>
+		<string>Plus</string>
+	</array>
+	<key>Other-3-Girls</key>
+	<array>
+		<string></string>
+		<string>XS</string>
+		<string>S</string>
+		<string>M</string>
+		<string>L</string>
+		<string>XL</string>
+		<string>XXL</string>
+	</array>
+	<key>Other-4-Girls</key>
+	<array>
+		<string></string>
+		<string>4</string>
+		<string>5</string>
+		<string>6</string>
+		<string>6X</string>
+		<string>7</string>
+		<string>8</string>
+		<string>10</string>
+		<string>12</string>
+		<string>14</string>
+		<string>16</string>
+		<string>18</string>
+	</array>
+	<key>Other-2-Boys</key>
+	<array>
+		<string></string>
+		<string>Slim</string>
+		<string>Regular</string>
+		<string>Husky</string>
+	</array>
+	<key>Other-3-Boys</key>
+	<array>
+		<string></string>
+		<string>XS</string>
+		<string>S</string>
+		<string>M</string>
+		<string>L</string>
+		<string>XL</string>
+		<string>XXL</string>
+	</array>
+	<key>Other-4-Boys</key>
+	<array>
+		<string></string>
+		<string>4</string>
+		<string>5</string>
+		<string>6</string>
+		<string>7</string>
+		<string>8</string>
+		<string>10</string>
+		<string>12</string>
+		<string>14</string>
+		<string>16</string>
+		<string>18</string>
+	</array>
+	<key>Other-2-JrGirls</key>
+	<array>
+		<string></string>
+		<string>Slim</string>
+		<string>Regular</string>
+		<string>Plus</string>
+	</array>
+	<key>Other-3-JrGirls</key>
+	<array>
+		<string></string>
+		<string>S</string>
+		<string>M</string>
+		<string>L</string>
+		<string>XL</string>
+		<string>XXL</string>
+	</array>
+	<key>Other-4-JrGirls</key>
+	<array>
+		<string></string>
+		<string>3</string>
+		<string>5</string>
+		<string>7</string>
+		<string>9</string>
+		<string>13</string>
+		<string>15</string>
+	</array>
+	<key>Other-2-JrBoys</key>
+	<array>
+		<string></string>
+		<string>Slim</string>
+		<string>Regular</string>
+		<string>Husky</string>
+	</array>
+	<key>Other-3-JrBoys</key>
+	<array>
+		<string></string>
+		<string>XS</string>
+		<string>S</string>
+		<string>M</string>
+		<string>L</string>
+		<string>XL</string>
+		<string>XXL</string>
+	</array>
+	<key>Other-4-JrBoys</key>
+	<array>
+		<string></string>
+		<string>4</string>
+		<string>5</string>
+		<string>6</string>
+		<string>7</string>
+		<string>8</string>
+		<string>10</string>
+		<string>12</string>
+		<string>14</string>
+		<string>16</string>
+		<string>18</string>
+	</array>
+	<key>Other-2-Toddlers</key>
+	<array>
+		<string></string>
+		<string>2T</string>
+		<string>3T</string>
+		<string>4T</string>
+		<string>5T</string>
+	</array>
+	<key>Other-3-Toddlers</key>
+	<array>
+		<string></string>
+		<string>S</string>
+		<string>M</string>
+		<string>L</string>
+		<string>XL</string>
+	</array>
+	<key>Other-2-Infants</key>
+	<array>
+		<string></string>
+		<string>0-3 Mo.</string>
+		<string>3-6 Mo.</string>
+		<string>6-12 Mo.</string>
+		<string>12-18 Mo.</string>
+		<string>18-24 Mo.</string>
+	</array>
+	<key>Other-3-Infants</key>
+	<array>
+		<string></string>
+		<string>S</string>
+		<string>M</string>
+		<string>L</string>
+		<string>XL</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>A</key>
+	<array>
+		<string>A&amp;W Restaurants</string>
+		<string>Abercrombie &amp; Fitch</string>
+		<string>Advance Auto Parts</string>
+		<string>Aeropostale</string>
+		<string>Aldo</string>
+		<string>Aldo Accessories</string>
+		<string>All About Diamonds</string>
+		<string>American Apparel</string>
+		<string>American Eagle Outfitters</string>
+		<string>Anne Klein</string>
+		<string>Ann Taylor</string>
+		<string>Ann Taylor Loft</string>
+		<string>Applebee&apos;s</string>
+		<string>Apple Store</string>
+		<string>Arby&apos;s</string>
+		<string>Archiver&apos;s</string>
+		<string>Arden B.</string>
+		<string>Arete</string>
+		<string>Aria Bridal</string>
+		<string>Armani Exchange</string>
+		<string>Artful Living</string>
+		<string>As Seen On TV</string>
+		<string>Atlanta Bread Company</string>
+		<string>Au Bon Pan</string>
+		<string>AutoZone</string>
+		<string>Aveda</string>
+	</array>
+	<key>B</key>
+	<array>
+		<string>Babies &quot;R&quot; Us</string>
+		<string>babyGap</string>
+		<string>Bailey Banks &amp; Biddle</string>
+		<string>Bakers</string>
+		<string>Bally Total Fitness</string>
+		<string>Banana Republic</string>
+		<string>Barnes &amp; Noble</string>
+		<string>Baskin Robbins</string>
+		<string>Bass</string>
+		<string>Bath &amp; Body Works</string>
+		<string>B.C. Surf &amp; Sport</string>
+		<string>bebe</string>
+		<string>Ben &amp; Jerry&apos;s</string>
+		<string>Bed Bath &amp; Beyond</string>
+		<string>Benetton</string>
+		<string>Benihana</string>
+		<string>Bennigan&apos;s</string>
+		<string>Bertucci&apos;s</string>
+		<string>Best Buy</string>
+		<string>BJ&apos;s Wholesale Club</string>
+		<string>Blockbuster Video</string>
+		<string>Body Shop, The</string>
+		<string>Borders</string>
+		<string>Bose</string>
+		<string>Bostonian</string>
+		<string>Brighton Collectibles</string>
+		<string>Brooklyn Country Club</string>
+		<string>Brooks Brothers</string>
+		<string>Brookstone</string>
+		<string>Buddha Express</string>
+		<string>Build-A-Bear Workshop</string>
+		<string>Burger King</string>
+		<string>Burlington Coat Factory</string>
+		<string>Burlington Shoes</string>
+	</array>
+	<key>C</key>
+	<array>
+		<string>Cache</string>
+		<string>Calvin Klein</string>
+		<string>Cardsmart</string>
+		<string>Cargill Gallery</string>
+		<string>Champs</string>
+		<string>Champs Sports</string>
+		<string>Charlotte Russe</string>
+		<string>Cheesecake Factory, The</string>
+		<string>Chick-fil-A</string>
+		<string>Chico&apos;s</string>
+		<string>Chili&apos;s</string>
+		<string>Chipotle Mexican Grill</string>
+		<string>Christmas Tree Shop</string>
+		<string>Christopher &amp; Banks</string>
+		<string>Chuck E. Cheese&apos;s</string>
+		<string>CiCi&apos;s Pizza</string>
+		<string>Cinnabon</string>
+		<string>Claire&apos;s</string>
+		<string>Claire&apos;s Club</string>
+		<string>Clarks England</string>
+		<string>Coach</string>
+		<string>Cold Stone Creamery</string>
+		<string>Costco</string>
+		<string>Countrywide Gold Buyers</string>
+		<string>Crabtree &amp; Evelyn</string>
+		<string>Crate &amp; Barrel</string>
+		<string>Crazy 8</string>
+		<string>Crocs</string>
+		<string>Curves</string>
+		<string>CVS/pharmacy</string>
+	</array>
+	<key>D</key>
+	<array>
+		<string>Dairy Queen</string>
+		<string>D&apos;Angelos</string>
+		<string>Dave &amp; Busters</string>
+		<string>DEB</string>
+		<string>Delia&apos;s</string>
+		<string>Dellaria Salon</string>
+		<string>Denny&apos;s</string>
+		<string>DKNY</string>
+		<string>Dick&apos;s Sporting Goods</string>
+		<string>Dillard&apos;s
+Dillard&apos;s Dillard&apos;s</string>
+		<string>Disney Store, The</string>
+		<string>Dollar Fair</string>
+		<string>Dollar Tree</string>
+		<string>Domino&apos;s Pizza</string>
+		<string>Dress Barn</string>
+		<string>DSW Shoes</string>
+		<string>Dunkin&apos; Donuts</string>
+	</array>
+	<key>E</key>
+	<array>
+		<string>EB Games</string>
+		<string>Eddie Bauer</string>
+		<string>Empyrean Jewelers</string>
+		<string>Express</string>
+		<string>Express Men</string>
+	</array>
+	<key>F</key>
+	<array>
+		<string>Famous Footwear</string>
+		<string>Fancy Nails</string>
+		<string>FedEx Kinkos</string>
+		<string>Finish Line</string>
+		<string>Fire+Ice</string>
+		<string>Footaction</string>
+		<string>Foot Locker</string>
+		<string>Forever 21</string>
+		<string>Fossil</string>
+		<string>Frederick&apos;s of Hollywood</string>
+		<string>Friendly&apos;s</string>
+		<string>Fry&apos;s Home Electronics</string>
+		<string>Fuddruckers</string>
+		<string>f.y.e.</string>
+	</array>
+	<key>G</key>
+	<array>
+		<string>Game Crazy</string>
+		<string>GameStop</string>
+		<string>Games Workshop</string>
+		<string>Gap</string>
+		<string>GapKids</string>
+		<string>General Nutrition Center</string>
+		<string>Glamour Shots</string>
+		<string>GNC</string>
+		<string>Godiva Chocolatier</string>
+		<string>Goodyear</string>
+		<string>Great Wraps</string>
+		<string>Guess</string>
+		<string>Guitar Center</string>
+		<string>Gymboree</string>
+	</array>
+	<key>H</key>
+	<array>
+		<string>H&amp;M</string>
+		<string>Haagen Dazs</string>
+		<string>Hallmark</string>
+		<string>Hannoush Jewelers</string>
+		<string>Hard Rock Cafe</string>
+		<string>Hat Shack</string>
+		<string>Haverty&apos;s Furniture</string>
+		<string>Hearth &amp; Kettle</string>
+		<string>Helzberg Diamonds</string>
+		<string>Hollister Co.</string>
+		<string>Hollywood Video</string>
+		<string>Home Depot</string>
+		<string>Home Elegance</string>
+		<string>Home Goods</string>
+		<string>Honey Dew Donuts</string>
+		<string>Hooters</string>
+		<string>Hot Topic</string>
+		<string>Howard Johnson&apos;s</string>
+		<string>Hugo Boss</string>
+	</array>
+	<key>I</key>
+	<array>
+		<string>Icing by Claire&apos;s</string>
+		<string>IHOP</string>
+		<string>Imax</string>
+		<string>Imax 3-D</string>
+		<string>iParty</string>
+	</array>
+	<key>J</key>
+	<array>
+		<string>JC Penney</string>
+		<string>J. Crew</string>
+		<string>Jersey Mike&apos;s Subs</string>
+		<string>Jiffy Lube</string>
+		<string>J. Jill</string>
+		<string>J. Jill Petite</string>
+		<string>JoAnn&apos;s Fabric &amp; Crafts</string>
+		<string>Johnny Rockets</string>
+		<string>Johnson &amp; Murphy</string>
+		<string>Jos. A. Bank</string>
+		<string>Journeys</string>
+		<string>Journeys Kidz</string>
+		<string>Justice</string>
+	</array>
+	<key>K</key>
+	<array>
+		<string>Kay Jewelers</string>
+		<string>Kenneth Cole</string>
+		<string>KFC</string>
+		<string>Kmart</string>
+		<string>Kohl&apos;s</string>
+		<string>Krispy Kreme</string>
+		<string>Krogers</string>
+	</array>
+	<key>L</key>
+	<array>
+		<string>Lady Foot Locker</string>
+		<string>Lands&apos; End</string>
+		<string>Lane Bryant</string>
+		<string>Lenscrafters</string>
+		<string>Levi&apos;s</string>
+		<string>Lids</string>
+		<string>Lindt Chocolate</string>
+		<string>Little Caesars</string>
+		<string>Liz Claiborne</string>
+		<string>L.L. Bean</string>
+		<string>Lone Star Steahouse &amp; Saloon</string>
+		<string>Long John Silver&apos;s</string>
+		<string>Longhorn Steakhouse</string>
+		<string>Lowes</string>
+		<string>Lucky Brand Jeans</string>
+		<string>LUSH Fresh Handmade Cosmetics</string>
+	</array>
+	<key>M</key>
+	<array>
+		<string>Macy&apos;s</string>
+		<string>Macy&apos;s Home Store</string>
+		<string>Macy&apos;s Men&apos;s Store</string>
+		<string>Marshalls</string>
+		<string>Mastercuts</string>
+		<string>McDonald&apos;s</string>
+		<string>Men&apos;s Wearhouse</string>
+		<string>Men&apos;s Wearhouse &amp; Tux</string>
+		<string>Michaels</string>
+		<string>Midas</string>
+		<string>Milano Leather</string>
+		<string>Mimi Maternity</string>
+		<string>Modell&apos;s Sporting Goods</string>
+		<string>Motherhood Maternity</string>
+		<string>MovieStop</string>
+		<string>Mrs. Field&apos;s Cookies</string>
+	</array>
+	<key>N</key>
+	<array>
+		<string>Napa Auto Parts</string>
+		<string>Newbury Comics</string>
+		<string>New York &amp; Company</string>
+		<string>Nine West</string>
+		<string>Nordstrom</string>
+	</array>
+	<key>O</key>
+	<array>
+		<string>O&apos;Charley&apos;s</string>
+		<string>OfficeMax</string>
+		<string>Old Navy</string>
+		<string>Olive Garden</string>
+		<string>On The Border</string>
+		<string>Orange Julius</string>
+		<string>Origins</string>
+		<string>Outback Steakhouse</string>
+	</array>
+	<key>P</key>
+	<array>
+		<string>PacSun</string>
+		<string>Panera Bread</string>
+		<string>Papa Gino&apos;s</string>
+		<string>Papa John&apos;s</string>
+		<string>Papaya</string>
+		<string>Papyrus</string>
+		<string>Party City</string>
+		<string>Payless ShoeSource</string>
+		<string>Pearle Vision Center</string>
+		<string>Pep Boys</string>
+		<string>PetCo</string>
+		<string>PetSmart</string>
+		<string>P.F. Chang&apos;s China Bistro</string>
+		<string>Piercing Pagoda</string>
+		<string>Pier 1 Imports</string>
+		<string>Pizza Hut</string>
+		<string>Planet Fitness</string>
+		<string>Ponderosa Steakhouse</string>
+		<string>Popeye&apos;s Chicken &amp; Biscuits</string>
+		<string>Pottery Barn</string>
+		<string>Pottery Barn Kids</string>
+		<string>Publix</string>
+	</array>
+	<key>Q</key>
+	<array>
+		<string>Quiznos Subs</string>
+	</array>
+	<key>R</key>
+	<array>
+		<string>Radio Shack</string>
+		<string>Regis Salons</string>
+		<string>Restoration Hardware</string>
+		<string>Rio Bravo Cantina</string>
+		<string>Rite Aid Pharmacy</string>
+		<string>Romano&apos;s Macaroni Grill</string>
+		<string>Ross-Simons</string>
+		<string>Ruby Tuesday</string>
+	</array>
+	<key>S</key>
+	<array>
+		<string>Sbarro</string>
+		<string>Schlotzsky&apos;s</string>
+		<string>Sears</string>
+		<string>Select Comfort</string>
+		<string>Sephora</string>
+		<string>Shaw&apos;s</string>
+		<string>Sherwin-Williams</string>
+		<string>Sleepy&apos;s</string>
+		<string>Solstice</string>
+		<string>Sonic Drive-In</string>
+		<string>Sony Style</string>
+		<string>Spencer Gifts</string>
+		<string>Staples</string>
+		<string>Starbucks Coffee</string>
+		<string>Steve Madden</string>
+		<string>Stop &amp; Shop</string>
+		<string>Stride Rite</string>
+		<string>Subway</string>
+		<string>Sunglass Hut</string>
+		<string>Supercuts</string>
+	</array>
+	<key>T</key>
+	<array>
+		<string>Taco Bell</string>
+		<string>Talbots</string>
+		<string>Talbots Petites</string>
+		<string>Talbots Woman Boutique</string>
+		<string>Target</string>
+		<string>TCBY</string>
+		<string>Teavana</string>
+		<string>T.G.I. Friday&apos;s</string>
+		<string>The Men&apos;s Wearhouse</string>
+		<string>The UPS Store</string>
+		<string>Tiffany &amp; Co.</string>
+		<string>Tim Hortons</string>
+		<string>TJ Maxx</string>
+		<string>Tommy Hilfiger</string>
+		<string>Town Fair Tire</string>
+		<string>Toys &quot;R&quot; Us</string>
+		<string>Trade Secret</string>
+		<string>TRIO</string>
+	</array>
+	<key>U</key>
+	<array>
+		<string>Ulta Beauty</string>
+		<string>Uno Chicago Grill</string>
+		<string>Urban Behavior</string>
+	</array>
+	<key>V</key>
+	<array>
+		<string>Vans</string>
+		<string>Victoria&apos;s Secret</string>
+	</array>
+	<key>W</key>
+	<array>
+		<string>Waldenbooks</string>
+		<string>Walgreens</string>
+		<string>Walmart</string>
+		<string>Wet Seal</string>
+		<string>Wendy&apos;s</string>
+		<string>White Barn Candle Co.</string>
+		<string>White House | Black Market</string>
+		<string>Whole Foods Market</string>
+		<string>Williams-Sonoma</string>
+	</array>
+	<key>X</key>
+	<array>
+		<string>X10 Home Solutions</string>
+	</array>
+	<key>Y</key>
+	<array>
+		<string>Yankee Candle</string>
+	</array>
+	<key>Z</key>
+	<array>
+		<string>Zales Jewelers</string>
+		<string>Zumiez</string>
+	</array>
+</dict>
+</plist>

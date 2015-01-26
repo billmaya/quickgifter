@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>fullname</key>
+		<string>Judy Monroe</string>
+		<key>info</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>Gift Ideas</string>
+				<key>content</key>
+				<array>
+					<dict>
+						<key>Name</key>
+						<string>Nutriganics skin care</string>
+						<key>Type</key>
+						<string>Health &amp; Beauty - Bath &amp; Body</string>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Important Dates</string>
+				<key>content</key>
+				<array/>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Sizes</string>
+				<key>content</key>
+				<array/>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Likes</string>
+				<key>content</key>
+				<array/>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Fav Places</string>
+				<key>content</key>
+				<array/>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>fullname</key>
+		<string>George Nixon</string>
+		<key>info</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>Gift Ideas</string>
+				<key>content</key>
+				<array>
+					<dict>
+						<key>Name</key>
+						<string>Arkham Asylum</string>
+						<key>Type</key>
+						<string>Video Games - XBox 360</string>
+					</dict>
+					<dict>
+						<key>Name</key>
+						<string>Star Trek Remastered DVD Season 1</string>
+						<key>Type</key>
+						<string>Entertainment - Television</string>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Important Dates</string>
+				<key>content</key>
+				<array>
+					<dict>
+						<key>Name</key>
+						<string>June 12, 1963</string>
+						<key>Type</key>
+						<string>Birthday</string>
+					</dict>
+					<dict>
+						<key>Name</key>
+						<string>June 08, 1981</string>
+						<key>Type</key>
+						<string>Graduation</string>
+					</dict>
+					<dict>
+						<key>Name</key>
+						<string>December 31, 1990</string>
+						<key>Type</key>
+						<string>Wedding</string>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Sizes</string>
+				<key>content</key>
+				<array>
+					<dict>
+						<key>Name</key>
+						<string>XL W 40&quot; L 30&quot;</string>
+						<key>Type</key>
+						<string>Pants</string>
+					</dict>
+					<dict>
+						<key>Name</key>
+						<string>XL Neck: 14.5&quot; Arm: 30&quot;</string>
+						<key>Type</key>
+						<string>Dress Shirt</string>
+					</dict>
+					<dict>
+						<key>Name</key>
+						<string>Mens 11.5</string>
+						<key>Type</key>
+						<string>Shoes</string>
+					</dict>
+					<dict>
+						<key>Name</key>
+						<string> XL</string>
+						<key>Type</key>
+						<string>T-Shirt</string>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Likes</string>
+				<key>content</key>
+				<array>
+					<dict>
+						<key>Name</key>
+						<string>Video Games - XBox 360</string>
+						<key>Type</key>
+						<string></string>
+					</dict>
+					<dict>
+						<key>Name</key>
+						<string>Star Trek</string>
+						<key>Type</key>
+						<string>Entertainment - Television</string>
+					</dict>
+					<dict>
+						<key>Name</key>
+						<string>Avalon Hill Wargames</string>
+						<key>Type</key>
+						<string>Toys - Board Games</string>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Fav Places</string>
+				<key>content</key>
+				<array>
+					<dict>
+						<key>Name</key>
+						<string>GameStop</string>
+						<key>Type</key>
+						<string></string>
+					</dict>
+					<dict>
+						<key>Name</key>
+						<string>Borders</string>
+						<key>Type</key>
+						<string></string>
+					</dict>
+					<dict>
+						<key>Name</key>
+						<string>Barnes &amp; Noble</string>
+						<key>Type</key>
+						<string></string>
+					</dict>
+					<dict>
+						<key>Name</key>
+						<string>Starbucks Coffee</string>
+						<key>Type</key>
+						<string></string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
