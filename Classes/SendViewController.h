@@ -13,7 +13,6 @@
 @interface SendViewController : UIViewController 
 	<UITableViewDelegate, UITableViewDataSource, MFMailComposeViewControllerDelegate> {
 
-		//NSArray *people;
 		NSMutableArray *people;
 		UITableView *tableView;
 		
@@ -23,7 +22,6 @@
 
 }
 
-//@property (nonatomic, retain) NSArray *people;
 @property (nonatomic, retain) NSMutableArray *people;
 @property (nonatomic, retain) IBOutlet UITableView *tableView;
 
