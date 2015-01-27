@@ -14,7 +14,4 @@
 		
 }
 
-//@property (nonatomic, retain) PersonListController *personListController;
-//@property (nonatomic, retain) NSMutableArray *people;
-
 @end

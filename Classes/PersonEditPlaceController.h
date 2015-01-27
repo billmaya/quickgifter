@@ -10,11 +10,10 @@
 
 
 @interface PersonEditPlaceController : UIViewController 
-	<UITableViewDataSource, UITableViewDelegate> /*UIPickerViewDelegate, UIPickerViewDataSource>*/ {
+	<UITableViewDataSource, UITableViewDelegate> {
 
 		UITableView *tableView;
 		NSArray *details;
-		//IBOutlet UIPickerView *singlePicker;
 		
 		NSDictionary *categoryItems;
 		NSArray *categories;

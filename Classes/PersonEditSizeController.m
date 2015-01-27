@@ -203,7 +203,7 @@
 	}
 	
 	if (!typeCell) {
-        typeCell = [[UITableViewCell alloc] initWithFrame:CGRectZero reuseIdentifier:@"TypeCell"];
+        typeCell = [[UITableViewCell alloc] initWithFrame:CGRectZero];
     }
     typeCell.textLabel.text = [editingSize valueForKey:@"Type"];
     

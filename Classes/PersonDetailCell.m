@@ -94,20 +94,4 @@
     name.frame = rect;
 }
 
-/*
-// Update the text color of each label when entering and exiting selected mode.
-- (void)setSelected:(BOOL)selected animated:(BOOL)animated {
-    [super setSelected:selected animated:animated];
-    if (selected) {
-        name.textColor = [UIColor whiteColor];
-        type.textColor = [UIColor whiteColor];
-        prompt.textColor = [UIColor whiteColor];
-    } else {
-        name.textColor = [UIColor blackColor];
-        type.textColor = [UIColor darkGrayColor];
-        prompt.textColor = [UIColor darkGrayColor];
-    }
-}
-*/
-
 @end

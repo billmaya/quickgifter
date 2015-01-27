@@ -32,8 +32,6 @@
 		item = [self.items objectAtIndex:itemRow];
 		combined = [[NSString alloc] initWithFormat:@"%@ - %@", category, item];
 	}
-	//NSString *item = [self.items objectAtIndex:itemRow]; // WJTM - 10.16.09 - cmntd
-	//NSString *combined = [[NSString alloc] initWithFormat:@"%@ - %@", category, item]; // WJTM - 10.16.09 - cmntd
 	
 	// save edits to the editing item and add new item to the content.
 	if ([detailField.text length] == 0) {
@@ -61,7 +59,6 @@
 {
 	
 	newItem = NO; // cancel edits, restore values from the copy
-    //[editingItem setValuesForKeysWithDictionary:editingItemCopy];
 	
 	[self.navigationController popViewControllerAnimated:YES]; 
 }

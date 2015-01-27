@@ -63,7 +63,6 @@
 {
 	
     newItem = NO; // cancel edits, restore values from the copy
-    //[editingItem setValuesForKeysWithDictionary:editingItemCopy];
 	
 	[self.navigationController popViewControllerAnimated:YES]; 
 }

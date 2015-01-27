@@ -159,11 +159,11 @@
 	
 	UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:TopLevelCellIdentifier];
 	if (cell == nil) {
-		cell = [[[UITableViewCell alloc] initWithFrame:CGRectZero reuseIdentifier:TopLevelCellIdentifier] autorelease];
+        cell = [[[UITableViewCell alloc] initWithStyle:UITableViewCellStyleDefault reuseIdentifier:TopLevelCellIdentifier] autorelease];
 	}
 	
 	
-	if (indexPath.row >= [self. people count]) { // WJTM - 10.15.09 - added "self."
+	if (indexPath.row >= [self.people count]) { // WJTM - 10.15.09 - added "self."
 		cell.textLabel.text = @"Add new Person";
 	} else {
 		NSDictionary *person = [self.people objectAtIndex:indexPath.row]; // PList imp.

@@ -178,7 +178,7 @@
 	UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:@"PersonEditDate"];
 	if (cell == nil)
 	{
-		cell = [[[UITableViewCell alloc] initWithFrame:CGRectZero reuseIdentifier:@"PersonEditDate"] autorelease];
+		cell = [[[UITableViewCell alloc] initWithStyle:UITableViewCellStyleDefault reuseIdentifier:@"PersonEditDate"] autorelease];
 	}
 
 	cell.textLabel.text = [categorySection objectAtIndex:indexPath.row];

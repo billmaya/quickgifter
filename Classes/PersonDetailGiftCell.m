@@ -26,7 +26,6 @@
         type.textColor = [UIColor blackColor];
         type.backgroundColor = [UIColor clearColor];
 		
-		//prompt = [[UILabel alloc] initWithFrame:CGRectZero];
 		prompt = [[UILabel alloc] initWithFrame:CGRectMake(30, 111, 305, 35)];
         prompt.font = [UIFont boldSystemFontOfSize:14];
         prompt.textColor = [UIColor blackColor];
