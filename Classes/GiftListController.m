@@ -38,56 +38,10 @@
 	
 	peopleDetail = ((QuickGifterAppDelegate *)[UIApplication sharedApplication].delegate).people;
 	
-	/*/ DYNAMIC GIFT LIST
-	NSMutableArray *peopleDetail;
-	peopleDetail = ((QuickGifterAppDelegate *)[UIApplication sharedApplication].delegate).people;
-	
-	if (self.peopleGifts == nil) { // WJTM - 10.15.09 - added if/else
-		self.peopleGifts = [[NSMutableDictionary alloc] init];
-	} else {
-		[self.peopleGifts removeAllObjects];
-	}
-	
-	for (NSDictionary *person in peopleDetail) {
-		NSString *fullname = [[person objectForKey:@"fullname"] copy]; // WJTM - 10.15.09 - added "copy]"
-		NSMutableArray *personsGifts = [[NSMutableArray alloc] init]; // Array for person's gifts
-		
-		// Info array from individual dictionary entry in People.plist
-		NSArray *info = [[NSArray arrayWithArray:[person objectForKey:@"info"]] copy]; // WJTM - 10.15.09 - added "copy]"
-		for (NSDictionary *category in info) {
-			NSString *name= [[category objectForKey:@"name"] copy]; // WJTM - 10.15.09 - added "copy]"
-			if ([name isEqualToString: @"Gift Ideas"] == YES) {
-				// Content array from individual gift category
-				NSArray *content = [NSArray arrayWithArray:[category objectForKey:@"content"]]; 
-				for (NSDictionary *giftItem in content) {
-					[personsGifts addObject:[giftItem objectForKey:@"Name"]];
-				}
-				[peopleGifts setValue:personsGifts forKey:[fullname copy]]; // WJTM - 10.15.09 - added "copy]"
-				
-				[personsGifts release];
-				[fullname release]; // WJTM - 10.15.09 - added
-				
-				break;
-			}
-			[name release]; // WJTM - 10.15.09 - added
-		}
-		[info release]; // WJTM - 10.15.09 - added
-	}
-	[peopleDetail release]; 
-	
-	if ([peopleGifts count] != 0) {
-		self.people = [[self.peopleGifts allKeys] sortedArrayUsingSelector:@selector(compare:)];
-		self.gifts = [self.peopleGifts objectForKey:[self.people objectAtIndex:0]];
-	}
-	*/
     [super viewDidLoad];
 }
 
 - (void)viewWillAppear:(BOOL)animated {
-    
-	//NSMutableArray *peopleDetail = [[NSMutableArray alloc] init];
-	//QuickGifterAppDelegate *qg = ((QuickGifterAppDelegate *)[UIApplication sharedApplication].delegate);
-	//peopleDetail = ((QuickGifterAppDelegate *)[UIApplication sharedApplication].delegate).people;
 	
 	if (self.peopleGifts == nil) { // WJTM - 10.15.09 - added if/else
 		self.peopleGifts = [[NSMutableDictionary alloc] init];
@@ -110,8 +64,6 @@
 					[personsGifts addObject:[giftItem objectForKey:@"Name"]];
 				}
 				[peopleGifts setValue:personsGifts forKey:[fullname copy]]; // WJTM - 10.15.09 - added "copy]"
-				
-				//[personsGifts release]; // WJTM - 10.20.09 - release on line 118
 				[fullname release]; // WJTM - 10.15.09 - added
 				
 				break;
@@ -121,8 +73,6 @@
 		[info release]; // WJTM - 10.15.09 - added
 		[personsGifts release];
 	}
-	//[peopleDetail release]; 
-	
 	if ([peopleGifts count] != 0) {
 		self.peoples = [[self.peopleGifts allKeys] sortedArrayUsingSelector:@selector(compare:)];
 		self.gifts = [self.peopleGifts objectForKey:[self.peoples objectAtIndex:0]];
@@ -171,18 +121,15 @@
 
 - (UITableViewCell *)tableView:(UITableView *)aTableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
 
-	//UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:@"PersonEditDate"];
 	PersonDetailGiftCell *cell = (PersonDetailGiftCell *)[tableView dequeueReusableCellWithIdentifier:@"PersonEditDate"];
 	if (cell == nil)
 	{
-		//cell = [[[UITableViewCell alloc] initWithFrame:CGRectZero reuseIdentifier:@"PersonEditDate"] autorelease];
 		cell = [[[PersonDetailGiftCell alloc] initWithFrame:CGRectZero reuseIdentifier:@"PersonEditDate"] autorelease];
 	}
 	
 	NSString *key = [self.peoples objectAtIndex:indexPath.section];
 	NSArray *gift = [self.peopleGifts objectForKey:key];
 	
-	//cell.textLabel.text = [gift objectAtIndex:indexPath.row];
 	cell.name.text = [gift objectAtIndex:indexPath.row];
 	cell.type.text = @"";
 	cell.prompt.text = @"";

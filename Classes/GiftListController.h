@@ -13,10 +13,7 @@
 	<UITableViewDataSource, UITableViewDelegate> {
 
 	UITableView *tableView;
-	//NSDictionary *peopleGifts;
 	NSMutableDictionary *peopleGifts;
-	//NSArray *people; // WJTM - 10.15.09 - cmntd out
-	//NSArray *gifts; // WJTM - 10.15.09 - cmntd out
 	NSMutableArray *peoples;
 	NSMutableArray *gifts;	
 		
@@ -25,10 +22,7 @@
 }
 
 @property (nonatomic, retain) IBOutlet UITableView *tableView;
-//@property (nonatomic, retain) NSDictionary *peopleGifts;
 @property (nonatomic, retain) NSMutableDictionary *peopleGifts;
-//@property (nonatomic, retain) NSArray *people; // WJTM - 10.15.09 - cmntd out
-//@property (nonatomic, retain) NSArray *gifts; // WJTM - 10.15.09 - cmntd out
 @property (nonatomic, retain) NSMutableArray *peoples;
 @property (nonatomic, retain) NSMutableArray *gifts;
 
