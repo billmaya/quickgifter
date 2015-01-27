@@ -84,7 +84,7 @@
 	
 	UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:TopLevelCellIdentifier];
 	if (cell == nil) {
-		cell = [[[UITableViewCell alloc] initWithFrame:CGRectZero reuseIdentifier:TopLevelCellIdentifier] autorelease];
+		cell = [[[UITableViewCell alloc] initWithFrame:CGRectZero] autorelease];
 		
 		CGRect offerTitleRect = CGRectMake(80, 10, 190, 70);
 		UILabel *offerTitleLabel = [[UILabel alloc] initWithFrame:offerTitleRect];
