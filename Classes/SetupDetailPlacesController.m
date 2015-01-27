@@ -14,8 +14,6 @@
 
 @synthesize caption, tableView;
 @synthesize categoryItems, categories;
-//@synthesize details;
-//@synthesize setupEditController;
 @synthesize setupEditPlacesController;
 
 /*
