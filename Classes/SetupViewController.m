@@ -97,7 +97,7 @@
 	UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:@"SectionsTableIdentifier"];
 	if (cell == nil)
 	{
-		cell = [[[UITableViewCell alloc] initWithFrame:CGRectZero reuseIdentifier:@"SectionsTableIdentifier"] autorelease];
+		cell = [[[UITableViewCell alloc] initWithStyle:UITableViewCellStyleDefault reuseIdentifier:@"SectionsTableIdentifier"] autorelease];
 	}
 	
 	NSDictionary *section = [details objectAtIndex:indexPath.section];
