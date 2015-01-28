@@ -16,9 +16,6 @@
 
 @implementation SetupViewController
 
-//@synthesize names;
-//@synthesize keys;
-
 @synthesize details;
 @synthesize favplaces;
 
@@ -46,16 +43,12 @@
 {
 	self.title = @"Setup";
 
-	//NSString *path = [[NSBundle mainBundle] pathForResource:@"Setup" ofType:@"plist"];
-	//self.details = [[[NSMutableArray alloc] initWithContentsOfFile:path] autorelease];
 	self.details = ((QuickGifterAppDelegate *)[UIApplication sharedApplication].delegate).details;
 	self.favplaces = ((QuickGifterAppDelegate *)[UIApplication sharedApplication].delegate).favplaces;
 	
 	UIBarButtonItem *backButton = [[UIBarButtonItem alloc] initWithTitle:@"Setup" style:UIBarButtonItemStylePlain target:nil action:nil];
 	self.navigationItem.backBarButtonItem = backButton;
 	[backButton release];
-		
-	//[super viewDidLoad];
 }
 
 /*
@@ -162,12 +155,5 @@
 	
 	return UITableViewCellAccessoryDisclosureIndicator;
 }
-
-/*
-- (NSArray *)sectionIndexTitlesForTableView:(UITableView *)tableView
-{
-	return keys;
-}
-*/
 
 @end

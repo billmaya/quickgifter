@@ -16,7 +16,6 @@
 @synthesize details;
 @synthesize tableView;
 @synthesize setupEditController;
-//@synthesize setupEditPlacesController;
 
 /*
 // The designated initializer. Override to perform setup that is required before the view is loaded.
@@ -90,12 +89,6 @@
 		cell = [[[UITableViewCell alloc] initWithFrame:CGRectZero reuseIdentifier:@"SectionsTableIdentifier"] autorelease];
 	}
 	
-	/*SetupDetailPlacesCell *cell = (SetupDetailPlacesCell *)[tableView dequeueReusableCellWithIdentifier:@"SectionsTableIdentifier"];
-	if (cell == nil)
-	{
-		cell = [[[SetupDetailPlacesCell alloc] initWithFrame:CGRectZero reuseIdentifier:@"SectionsTableIdentifier"] autorelease];
-	}*/
-	
 	if (indexPath.row >= [details count]) {
 		cell.textLabel.text = [NSString stringWithFormat:@"Add new %@", self.caption]; // UITableViewCell
 	} else {
@@ -105,13 +98,6 @@
 	
 	return cell;
 }
-/*
-- (NSString *)tableView:(UITableView *)tableView titleForHeaderInSection:(NSInteger)section
-{
-	NSString *key = [keys objectAtIndex:section];
-	return key;
-}
-*/
 
 // The editing style for a row is the kind of button displayed to the left of the cell when in editing mode.
 - (UITableViewCellEditingStyle)tableView:(UITableView *)aTableView editingStyleForRowAtIndexPath:(NSIndexPath *)indexPath {
@@ -185,23 +171,13 @@ forRowAtIndexPath:(NSIndexPath *)indexPath {
 		[details removeObjectAtIndex:indexPath.row];
         [tableView deleteRowsAtIndexPaths:[NSArray arrayWithObject:indexPath] withRowAnimation:UITableViewRowAnimationFade];
     } else if (editingStyle == UITableViewCellEditingStyleInsert) {
-		/*if ([self.caption isEqualToString:@"Fav Places"] == YES) {
-			SetupEditPlacesController *controller = self.setupEditPlacesController;
-			
-			controller.editingItem = nil; // "nil" indicates create new item
-			controller.editingContent = self.details; // group to add new item to
-			controller.sectionName = self.caption;
-			
-			[self.navigationController pushViewController:controller animated:YES];
-		} else {*/
-			SetupEditController *controller = self.setupEditController;
+        SetupEditController *controller = self.setupEditController;
 
-			controller.editingItem = nil; // "nil" indicates create new item
-			controller.editingContent = self.details; // group to add new item to
-			controller.sectionName = self.caption;
+        controller.editingItem = nil; // "nil" indicates create new item
+        controller.editingContent = self.details; // group to add new item to
+        controller.sectionName = self.caption;
 			
-			[self.navigationController pushViewController:controller animated:YES];
-		//}
+        [self.navigationController pushViewController:controller animated:YES];
     }
 }
 
@@ -216,16 +192,5 @@ forRowAtIndexPath:(NSIndexPath *)indexPath {
 	}
 	return setupEditController;
 }
-
-/*
-- (SetupEditPlacesController *)setupEditPlacesController {
-	if (setupEditPlacesController == nil) {
-		SetupEditPlacesController *controller = [[SetupEditPlacesController alloc] initWithNibName:@"SetupEditPlacesView" bundle:nil];
-		self.setupEditPlacesController = controller;
-		[controller release];
-	}
-	return setupEditPlacesController;
-}
-*/
 
 @end
