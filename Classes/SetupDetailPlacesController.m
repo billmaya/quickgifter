@@ -133,8 +133,7 @@
 	if (indexPath.row >= [categorySection count]) {
 		return UITableViewCellEditingStyleInsert;
 	} else {
-		return UITableViewCellEditingStyleDelete; // Comment out UITableView...Delete to prevent Fav Place deletes
-		//return UITableViewCellEditingStyleNone;   
+		return UITableViewCellEditingStyleDelete; // Comment out UITableView...Delete to prevent Fav Place deletes  
 	}
 	
     return UITableViewCellEditingStyleNone;
@@ -147,12 +146,6 @@
     if (self.editing) {
         // Don't maintain the selection. We will navigate to a new view so there's no reason to keep the selection here.
         [tableView deselectRowAtIndexPath:indexPath animated:NO];
-        // Go to edit view
-        /*NSDictionary *item = [details objectAtIndex:indexPath.row];
-        if (item) {
-			SetupEditController *controller = self.setupEditController;
-			[self.navigationController pushViewController:controller animated:YES];
-        }*/
     } else {
         // This will give the user visual feedback that the cell was selected but fade out to indicate that no
         // action is taken.
@@ -167,10 +160,6 @@
 - (void)setEditing:(BOOL)editing animated:(BOOL)animated {
 	
     [super setEditing:editing animated:animated];
-	
-	//NSArray *a = [categoryItems objectForKey:@"A"];
-	//NSUInteger c = [a count];
-	//NSIndexPath *ip = [NSIndexPath indexPathForRow:c inSection:0];
 	
 	NSArray *indexPaths = [NSArray arrayWithObjects:
 	[NSIndexPath indexPathForRow:[[categoryItems objectForKey:@"A"] count] inSection:0], 
@@ -250,16 +239,6 @@ forRowAtIndexPath:(NSIndexPath *)indexPath {
 #pragma mark -
 #pragma mark Other UIViewControllers
 
-/*
-- (SetupEditController *)setupEditController {
-	if (setupEditController == nil) {
-		SetupEditController *controller = [[SetupEditController alloc] initWithNibName:@"SetupEditView" bundle:nil];
-		self.setupEditController = controller;
-		[controller release];
-	}
-	return setupEditController;
-}
-*/
 
 - (SetupEditPlacesController *)setupEditPlacesController {
 	if (setupEditPlacesController == nil) {
