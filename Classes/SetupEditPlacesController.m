@@ -89,32 +89,6 @@
 	self.navigationItem.leftBarButtonItem = cancelButton;
 	[cancelButton release];
 	
-	/* //Don't need to build Type of Places data structure
-	self.details = ((QuickGifterAppDelegate *)[UIApplication sharedApplication].delegate).details;
-	
-	for (NSDictionary *item in details) {
-		NSString *name = [item objectForKey:@"name"];
-		if ([name isEqualToString: @"People Categories"] == YES) {
-			NSArray *content = [item objectForKey:@"content"];
-			for (NSDictionary *dictionaryItem in content) {
-				NSString *categoryName = [dictionaryItem objectForKey:@"name"];
-				if ([categoryName isEqualToString:@"Types of Places"] == YES) {
-					
-					NSArray *categoryItemItems = [dictionaryItem objectForKey:@"items"];
-					NSMutableArray *category = [[NSMutableArray alloc] init];
-					for (NSDictionary *itemEntry in categoryItemItems) {
-						[category addObject:[itemEntry objectForKey:@"name"]];
-					}
-					self.placeTypes = category;
-					[category release];
-					break;
-				}
-			}
-			break;
-		}
-	}
-	*/
-	
     [super viewDidLoad];
 }
 
@@ -132,7 +106,7 @@
     categoryCell.textLabel.text = @"Type of Place";*/
 	
     if (!itemCell) {
-        itemCell = [[SetupEditCell alloc] initWithFrame:CGRectZero reuseIdentifier:@"ItemCell"];
+        itemCell = [[SetupEditCell alloc] initWithStyle:UITableViewCellStyleDefault reuseIdentifier:@"ItemCell"];
     }
     
 	itemCell.textField.placeholder = @"Place Name";
@@ -148,20 +122,6 @@
 
 - (NSIndexPath *)tableView:(UITableView *)aTableView willSelectRowAtIndexPath:(NSIndexPath *)indexPath {
     
-	/*if (indexPath.section == 1) {
-		SetupEditPlacesTypeController *controller = self.setupEditPlacesTypeController;
-		
-		//controller.types = placeTypes; //Don't need to build Type of Places data structure
-		controller.editingItem = editingItem;
-		[editingItem setValue:itemCell.textField.text forKey:@"name"];
-		[editingItem setValue:categoryCell.textLabel.text forKey:@"type"];
-		
-		personEditDateTypeController.types = dateTypes;
-		personEditDateTypeController.editingItem = editingItem;
-		[editingItem setValue:typeCell.textLabel.text forKey:@"Type"];	
-		
-		[self.navigationController pushViewController:controller animated:YES];
-    }*/
     return indexPath;
 }
 

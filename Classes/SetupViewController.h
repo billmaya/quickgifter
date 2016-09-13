@@ -12,18 +12,10 @@
 @interface SetupViewController : UIViewController 
 	<UITableViewDataSource, UITableViewDelegate> {
 
-		//NSDictionary *names;
-		//NSArray *keys;
-		//NSDictionary *details;
-		
 		NSMutableArray *details;
 		NSMutableDictionary *favplaces;
 		
 }
-
-//@property (nonatomic, retain) NSDictionary *names;
-//@property (nonatomic, retain) NSArray *keys;
-//@property (nonatomic, retain) NSDictionary *details;
 
 @property (nonatomic, retain) NSMutableArray *details;
 @property (nonatomic, retain) NSMutableDictionary *favplaces;

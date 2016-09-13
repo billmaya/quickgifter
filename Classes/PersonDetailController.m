@@ -102,8 +102,7 @@
 
 	PersonDetailGiftCell *cell = (PersonDetailGiftCell *)[tableView dequeueReusableCellWithIdentifier:@"PersonDetailGiftCell"];
 	if (cell == nil) {
-		cell = [[[PersonDetailGiftCell alloc] initWithFrame:CGRectZero reuseIdentifier:@"PersonDetailGiftCell"] autorelease];
-		//cell.hidesAccessoryWhenEditing = NO; // Depricated in 3.0
+        cell = [[[PersonDetailGiftCell alloc] initWithFrame:CGRectZero] autorelease];
 		cell.editingAccessoryType = UITableViewCellAccessoryNone;
 	}
 	 
@@ -185,16 +184,10 @@
             NSMutableArray *content = [section valueForKey:@"content"];
             if (content && indexPath.row < [content count]) {
                 // The row selected is one with existing content, so that content will be edited.
-                //NSMutableDictionary *item = (NSMutableDictionary *)[content objectAtIndex:indexPath.row];
-                //controller.editingItem = item; // TEMP CMNT OUT 1
             } else {
                 // The row selected is a placeholder for adding content. The editor should create a new item.
-                //controller.editingItem = nil; // TEMP CMNT OUT 2
-                //controller.editingContent = content; // TEMP CMNT OUT 3
             }
             // Additional information for the editing controller.
-            //controller.sectionName = [section valueForKey:@"name"]; // TEMP CMNT OUT 4
-            //controller.editingTypes = [section valueForKey:@"types"]; // TEMP CMNT OUT 5
             [self.navigationController pushViewController:controller animated:YES];
         }
     } else {

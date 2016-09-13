@@ -19,9 +19,7 @@
 		
 		NSMutableDictionary *categoryItems;
 		NSArray *categories;
-		//NSMutableArray *details;
-		
-		//SetupEditController *setupEditController;
+
 		SetupEditPlacesController *setupEditPlacesController;
 }
 
@@ -30,9 +28,7 @@
 
 @property (nonatomic, retain) NSMutableDictionary *categoryItems;
 @property (nonatomic, retain) NSArray *categories;
-//@property (nonatomic, retain) NSMutableArray *details;
 
-//@property (nonatomic, retain) SetupEditController *setupEditController;
 @property (nonatomic, retain) SetupEditPlacesController *setupEditPlacesController;
 
 @end

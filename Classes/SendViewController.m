@@ -124,7 +124,7 @@
 	
 	UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:TopLevelCellIdentifier];
 	if (cell == nil) {
-		cell = [[[UITableViewCell alloc] initWithFrame:CGRectZero reuseIdentifier:TopLevelCellIdentifier] autorelease];
+		cell = [[[UITableViewCell alloc] initWithFrame:CGRectZero] autorelease];
 	}
 
 	self.person = [self.people objectAtIndex:indexPath.row];

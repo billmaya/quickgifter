@@ -19,13 +19,11 @@
 		UITableView *tableView;
 		
 		SetupEditController *setupEditController;
-		//SetupEditPlacesController *setupEditPlacesController;
 }
 
 @property (nonatomic, retain) NSString *caption;
 @property (nonatomic, retain) NSMutableArray *details;
 @property (nonatomic, retain) IBOutlet UITableView *tableView;
 @property (nonatomic, retain) SetupEditController *setupEditController;
-//@property (nonatomic, retain) SetupEditPlacesController *setupEditPlacesController;
 
 @end

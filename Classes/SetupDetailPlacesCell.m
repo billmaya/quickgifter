@@ -26,7 +26,6 @@
         type.textColor = [UIColor blackColor];
         type.backgroundColor = [UIColor clearColor];
 		
-		//prompt = [[UILabel alloc] initWithFrame:CGRectZero];
 		prompt = [[UILabel alloc] initWithFrame:CGRectMake(30, 111, 205, 35)];
         prompt.font = [UIFont boldSystemFontOfSize:14];
         prompt.textColor = [UIColor blackColor];
@@ -83,14 +82,6 @@
 	
     // Position each label with a modified version of the base rect.
     prompt.frame = rect;
-    
-	//rect.origin.x -= 15;
-    //rect.size.width = 100;
-    //type.frame = rect;
-    
-	//rect.origin.x += 110;
-    //rect.size.width = baseRect.size.width - 70;
-    //name.frame = rect;
 }
 
 

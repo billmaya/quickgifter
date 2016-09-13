@@ -19,14 +19,9 @@
 		 
 		 BOOL *newItem;
 		 
-		 //NSMutableDictionary *editingItem; // Changed to NSString
-		 //NSDictionary *editingItemCopy;
-		 
 		 NSMutableString *editingItem;
 		 NSMutableString *editingItemCopy;
 		 NSMutableArray *editingContent;
-		 
-		 //NSArray *placeTypes; // Don't need to build Type of Places data structure
 		 
 		 NSString *sectionName;
 		 
@@ -41,14 +36,9 @@
 @property (nonatomic, retain) NSArray *details;
 @property (nonatomic, retain) SetupEditPlacesTypeController *setupEditPlacesTypeController;
 
-//@property (nonatomic, retain) NSMutableDictionary *editingItem; // Changed to NSString
-//@property (nonatomic, copy) NSDictionary *editingItemCopy;
-
 @property (nonatomic, retain) NSMutableString *editingItem;
 @property (nonatomic, copy) NSMutableString *editingItemCopy;
 @property (nonatomic, retain) NSMutableArray *editingContent;
-
-//@property (nonatomic, retain) NSArray *placeTypes; //Don't need to build Type of Places data structure
 
 @property (nonatomic, copy) NSString *sectionName;
 @property (nonatomic, retain) IBOutlet UITableView *tableView;

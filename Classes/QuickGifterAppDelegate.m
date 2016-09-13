@@ -63,7 +63,8 @@
 	
 	self.favplaces = [[[NSMutableDictionary alloc] initWithContentsOfFile:pathToFavPlaces] autorelease];
 	
-	[window addSubview:rootController.view];
+	//[window addSubview:rootController.view];
+    [self.window setRootViewController:rootController];
     [window makeKeyAndVisible];
 }
 
