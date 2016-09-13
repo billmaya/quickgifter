@@ -106,7 +106,7 @@
     categoryCell.textLabel.text = @"Type of Place";*/
 	
     if (!itemCell) {
-        itemCell = [[SetupEditCell alloc] initWithFrame:CGRectZero reuseIdentifier:@"ItemCell"];
+        itemCell = [[SetupEditCell alloc] initWithStyle:UITableViewCellStyleDefault reuseIdentifier:@"ItemCell"];
     }
     
 	itemCell.textField.placeholder = @"Place Name";

@@ -90,7 +90,7 @@
 	
     UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:@"DateTypeCell"];
     if (cell == nil) {
-        cell = [[[UITableViewCell alloc] initWithFrame:CGRectZero reuseIdentifier:@"DateTypeCell"] autorelease];
+        cell = [[UITableViewCell alloc] initWithStyle:UITableViewCellStyleDefault reuseIdentifier:@"DataTypeCell"];
     }
 	
     cell.textLabel.text = [types objectAtIndex:indexPath.row];

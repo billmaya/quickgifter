@@ -93,7 +93,7 @@
         newItem = YES; // Set a flag. When the user saves, add the item; if user cancels, no action needed
     }
     if (!categoryCell) {
-        categoryCell = [[UITableViewCell alloc] initWithFrame:CGRectZero reuseIdentifier:@"CategoryCell"];
+        categoryCell = [[UITableViewCell alloc] initWithStyle:UITableViewCellStyleDefault reuseIdentifier:@"CategoryCell"];
     }
     categoryCell.textLabel.text = @"Category";
 	

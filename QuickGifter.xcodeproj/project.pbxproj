@@ -37,6 +37,7 @@
 		6F315AAE104411E900CF3A91 /* OfferListView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6F315AAC104411E900CF3A91 /* OfferListView.xib */; };
 		6F315AB31044121C00CF3A91 /* OfferDetailController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F315AB11044121C00CF3A91 /* OfferDetailController.m */; };
 		6F315AB41044121C00CF3A91 /* OfferDetailView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6F315AB21044121C00CF3A91 /* OfferDetailView.xib */; };
+		6F46057C1C4567D400047977 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6F46057B1C4567D400047977 /* Default-568h@2x.png */; };
 		6F4E8E3D1060FA7600013D85 /* SetupDetailPlacesCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F4E8E3C1060FA7600013D85 /* SetupDetailPlacesCell.m */; };
 		6F5043890FFB85DE00B6DCB5 /* SetupDetailController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F5043880FFB85DE00B6DCB5 /* SetupDetailController.m */; };
 		6F5B00DD0FB7920100A85AB0 /* PersonDetailController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F5B00DC0FB7920100A85AB0 /* PersonDetailController.m */; };
@@ -79,6 +80,7 @@
 		6FFA15101035779A00C13D5E /* SetupEditCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 6FFA150F1035779A00C13D5E /* SetupEditCell.m */; };
 		6FFEBD9F105FB048001C8033 /* SetupEditPlacesTypeController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6FFEBD9E105FB048001C8033 /* SetupEditPlacesTypeController.m */; };
 		6FFEBDA1105FB0BF001C8033 /* SetupEditPlacesTypeView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6FFEBDA0105FB0BF001C8033 /* SetupEditPlacesTypeView.xib */; };
+		8CD4FECC1CAC426E00A695C2 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8CD4FECB1CAC426E00A695C2 /* Images.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -124,6 +126,7 @@
 		6F315AB01044121C00CF3A91 /* OfferDetailController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OfferDetailController.h; sourceTree = "<group>"; };
 		6F315AB11044121C00CF3A91 /* OfferDetailController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OfferDetailController.m; sourceTree = "<group>"; };
 		6F315AB21044121C00CF3A91 /* OfferDetailView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = OfferDetailView.xib; path = Classes/OfferDetailView.xib; sourceTree = "<group>"; };
+		6F46057B1C4567D400047977 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		6F4E8E3B1060FA7600013D85 /* SetupDetailPlacesCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SetupDetailPlacesCell.h; sourceTree = "<group>"; };
 		6F4E8E3C1060FA7600013D85 /* SetupDetailPlacesCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SetupDetailPlacesCell.m; sourceTree = "<group>"; };
 		6F5043870FFB85DE00B6DCB5 /* SetupDetailController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SetupDetailController.h; sourceTree = "<group>"; };
@@ -186,6 +189,7 @@
 		6FFEBD9D105FB048001C8033 /* SetupEditPlacesTypeController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SetupEditPlacesTypeController.h; sourceTree = "<group>"; };
 		6FFEBD9E105FB048001C8033 /* SetupEditPlacesTypeController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SetupEditPlacesTypeController.m; sourceTree = "<group>"; };
 		6FFEBDA0105FB0BF001C8033 /* SetupEditPlacesTypeView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SetupEditPlacesTypeView.xib; sourceTree = "<group>"; };
+		8CD4FECB1CAC426E00A695C2 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = QuickGifter/Images.xcassets; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -229,6 +233,7 @@
 		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
 			isa = PBXGroup;
 			children = (
+				6F46057B1C4567D400047977 /* Default-568h@2x.png */,
 				6F73622610B4B7EC00C937A9 /* default.png */,
 				6FE155510FACE73B00B7891D /* Icons */,
 				080E96DDFE201D6D7F000001 /* Classes */,
@@ -252,6 +257,7 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				8CD4FECB1CAC426E00A695C2 /* Images.xcassets */,
 				6F23B24C10DBB0B800C9D905 /* iTunesArtwork.jpg */,
 				6F915FF21000D193004F1F45 /* Nib */,
 				6F915FF11000D186004F1F45 /* Data */,
@@ -503,6 +509,11 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0420;
+				TargetAttributes = {
+					1D6058900D05DD3D006BFB54 = {
+						DevelopmentTeam = S5LUQQXYB8;
+					};
+				};
 			};
 			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "QuickGifter" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -531,6 +542,7 @@
 				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
 				6FE1556D0FACE89900B7891D /* PersonEditDateView.xib in Resources */,
 				6FE155710FACE8AE00B7891D /* SendView.xib in Resources */,
+				8CD4FECC1CAC426E00A695C2 /* Images.xcassets in Resources */,
 				6FE155730FACE8B700B7891D /* SetupView.xib in Resources */,
 				6F5B00DF0FB7922000A85AB0 /* PersonDetailView.xib in Resources */,
 				6FAB863D0FBAE80E009EFFF6 /* PersonList.xib in Resources */,
@@ -559,6 +571,7 @@
 				6FF468A6106F8CDE009AD454 /* Sizes.plist in Resources */,
 				6F6403561077F7DD00C9B17E /* present.jpg in Resources */,
 				6F64037F1077FA5500C9B17E /* OfferListCell.xib in Resources */,
+				6F46057C1C4567D400047977 /* Default-568h@2x.png in Resources */,
 				6F94A21C107B3A11006DA3AA /* FavPlaces.plist in Resources */,
 				6F94A2E0107B5358006DA3AA /* SetupDetailPlacesView.xib in Resources */,
 				6F02C618108FEAE200C80383 /* 62QG.png in Resources */,
@@ -616,16 +629,21 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: William Maya (ASMR5D7VYT)";
+				ARCHS = "$(ARCHS_STANDARD)";
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "Brand Assets";
+				CODE_SIGN_IDENTITY = "iPhone Developer: William Maya (ASMR5D7VYT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = QuickGifter_Prefix.pch;
 				INFOPLIST_FILE = Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				PRODUCT_NAME = QuickGifter;
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "C1485461-EC47-4621-904F-2E0A56399CBB";
+				PROVISIONING_PROFILE = "6055dc78-c909-4abb-819a-01ece6cb3976";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "6055dc78-c909-4abb-819a-01ece6cb3976";
 			};
 			name = Debug;
 		};
@@ -633,12 +651,18 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD)";
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "Brand Assets";
+				CODE_SIGN_IDENTITY = "iPhone Developer: William Maya (ASMR5D7VYT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = QuickGifter_Prefix.pch;
 				INFOPLIST_FILE = Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				PRODUCT_NAME = QuickGifter;
+				PROVISIONING_PROFILE = "";
 				SDKROOT = iphoneos;
 			};
 			name = Release;
@@ -661,12 +685,18 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD)";
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "Brand Assets";
+				CODE_SIGN_IDENTITY = "iPhone Developer: William Maya (ASMR5D7VYT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = QuickGifter_Prefix.pch;
 				INFOPLIST_FILE = Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				PRODUCT_NAME = QuickGifter;
+				PROVISIONING_PROFILE = "";
 				SDKROOT = iphoneos;
 			};
 			name = Distribution;
